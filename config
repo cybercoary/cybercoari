@@ -18,7 +18,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop;cdn25.cdntlcomputingbr.shop;cdn26.cdntlcomputingbr.shop;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop]", 
+         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net;cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop;cdn37.cdntlcomputingbr.shop;cdn38.cdntlcomputingbr.shop;cdn39.cdntlcomputingbr.shop;cdn40.cdntlcomputingbr.shop;cdn41.cdntlcomputingbr.shop]", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": "http://painel.cybercoari.com.br/checkuser/conecta4g.php"

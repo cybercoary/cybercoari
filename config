@@ -33,8 +33,8 @@
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM FLARE 01",
-         "Payload":"[random=GET;ACL] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[lf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"revive.timrecompensas.com.br",
+         "Payload":"OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]",
+         "ProxyIP":"vs.timrecompensas.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""

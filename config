@@ -18,10 +18,10 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net;cybercoari.workers.dev;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop;cdn25.cdntlcomputingbr.shop;cdn26.cdntlcomputingbr.shop;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop]", 
+         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop;cdn25.cdntlcomputingbr.shop;cdn26.cdntlcomputingbr.shop;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop]", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://painel.cybercoari.com.br/checkuser/conecta4g.php"
       }
   ],
 "Networks": [
@@ -33,7 +33,7 @@
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM FLARE 01",
-         "Payload":"OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: seudomínioflare[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]",
+         "Payload":"OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]",
          "ProxyIP":"vs.timrecompensas.com.br",
          "ProxyPort":"80",
          "SNI":"",
@@ -89,8 +89,8 @@
          "FLAG":"https://cybercoari.com.br/imagens/vivo.png",
          "Info":"Proxy",
          "Name":"VIVO",
-         "Payload":"GET / HTTP/1.1[crlf]Host: d16zljb8cqaetp.cloudfront.net[crlf] [crlf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"apps.cybercoari.com.br",
+         "Payload":"GET /cybercoari HTTP/1.1[crlf]Host: [random=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]",
+         "ProxyIP":"vivo.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""

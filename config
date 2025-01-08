@@ -18,7 +18,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net;cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop;cdn37.cdntlcomputingbr.shop;cdn38.cdntlcomputingbr.shop;cdn39.cdntlcomputingbr.shop;cdn40.cdntlcomputingbr.shop;cdn41.cdntlcomputingbr.shop]", 
+         "ServerIP":"[rotate=cdn.cybercoari.app.br;cybercoari.app.br]", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": "http://painel.cybercoari.com.br/checkuser/conecta4g.php"
@@ -33,7 +33,7 @@
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM FLARE 01",
-         "Payload":"OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]",
+         "Payload":"OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]@cybercoari[crlf][crlf]",
          "ProxyIP":"vs.timrecompensas.com.br",
          "ProxyPort":"80",
          "SNI":"",

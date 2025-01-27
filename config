@@ -1,5 +1,5 @@
 {
-  "Version":"5",
+  "Version":"6",
   "Update":"https://raw.githubusercontent.com/cybercoary/cybercoari//main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/cybercoari/main/sms",
@@ -21,7 +21,7 @@
          "ServerIP":"[rotate=cybercoari.app.br;cdn.cybercoari.app.br]", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://painel.cybercoari.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php"
       }
   ],
 "Networks": [
